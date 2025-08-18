@@ -1,5 +1,3 @@
-# mending.dev
-
 Welcome to **Mending Development** – an open-source organization dedicated to building modern **Minecraft plugins** for **Paper** and **Velocity**.  
 Our mission is simple: deliver **fresh, performant, and immersive gameplay** for servers of all sizes. 🚀  
 
