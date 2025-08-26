@@ -7,7 +7,6 @@ Our mission is simple: deliver **fresh, performant, and immersive gameplay** for
 - 🛠 **Innovative Plugins** – crafted for the latest Minecraft versions.  
 - ⚡ **Performance-Oriented** – efficient code for smooth gameplay.  
 - 🎮 **Player-Centric** – features that focus on fun and community.  
-- 🌐 **Cross-Compatible** – seamless support for **PaperMC** & **Velocity**.  
 
 ---
 
