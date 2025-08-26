@@ -32,4 +32,4 @@ You are free to use, modify, and build upon our work.
 
 ---
 
-🌟 **Mending Development** – bringing modern Minecraft gameplay to your server.
+🌟 **mending.dev** – bringing modern Minecraft gameplay to your server.
